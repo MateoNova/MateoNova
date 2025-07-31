@@ -12,7 +12,6 @@
 - 🎓 I'm a Computer Engineering student with a strong focus on backend development and clean architectures.
 - 🛠️ I love designing robust, scalable and efficient systems.
 - 🎮 Video games fuel my creativity — RPGs, D&D, and anything with fantasy worlds.
-- 🌱 Currently diving deeper into DevOps, advanced testing, and hexagonal architecture.
 
 ---
 
